@@ -1,2 +1,3 @@
-# -
-分子动力学模拟（2017年春课程设计）
+# Molecular-dynamics
+Molecular dynamics(python)
+单线程版本，矢量化编程优化版本
